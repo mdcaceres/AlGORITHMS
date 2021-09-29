@@ -1,0 +1,16 @@
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.csprojAssemblyReference.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache

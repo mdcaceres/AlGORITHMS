@@ -1,0 +1,16 @@
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\InsertionSortRecursive.exe
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\InsertionSortRecursive.deps.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\InsertionSortRecursive.runtimeconfig.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\InsertionSortRecursive.runtimeconfig.dev.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\InsertionSortRecursive.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\ref\InsertionSortRecursive.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\bin\Debug\net5.0\InsertionSortRecursive.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.csprojAssemblyReference.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.AssemblyInfoInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.AssemblyInfo.cs
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.csproj.CoreCompileInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\ref\InsertionSortRecursive.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\InsertionSortRecursive\obj\Debug\net5.0\InsertionSortRecursive.genruntimeconfig.cache

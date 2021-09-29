@@ -1,0 +1,16 @@
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\insertionSort.exe
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\insertionSort.deps.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\insertionSort.runtimeconfig.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\insertionSort.runtimeconfig.dev.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\insertionSort.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\ref\insertionSort.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\bin\Debug\net5.0\insertionSort.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.csprojAssemblyReference.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.AssemblyInfoInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.AssemblyInfo.cs
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.csproj.CoreCompileInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\ref\insertionSort.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\insertionSort\obj\Debug\net5.0\insertionSort.genruntimeconfig.cache

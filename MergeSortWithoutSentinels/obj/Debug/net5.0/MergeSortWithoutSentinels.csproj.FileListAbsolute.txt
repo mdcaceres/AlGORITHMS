@@ -1,0 +1,16 @@
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\MergeSortWithoutSentinels.exe
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\MergeSortWithoutSentinels.deps.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\MergeSortWithoutSentinels.runtimeconfig.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\MergeSortWithoutSentinels.runtimeconfig.dev.json
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\MergeSortWithoutSentinels.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\ref\MergeSortWithoutSentinels.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\bin\Debug\net5.0\MergeSortWithoutSentinels.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.csprojAssemblyReference.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.AssemblyInfoInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.AssemblyInfo.cs
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.csproj.CoreCompileInputs.cache
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\ref\MergeSortWithoutSentinels.dll
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.pdb
+C:\Users\mdcac\Documents\proyectos\Algorithms\MergeSortWithoutSentinels\obj\Debug\net5.0\MergeSortWithoutSentinels.genruntimeconfig.cache
